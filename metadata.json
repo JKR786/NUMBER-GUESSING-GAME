@@ -1,0 +1,5 @@
+{
+  "name": "Number Guessing Pro",
+  "description": "A sleek and interactive number guessing game where you try to find the hidden number between 1 and 100.",
+  "requestFramePermissions": []
+}
